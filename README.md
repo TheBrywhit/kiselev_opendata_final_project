@@ -1,6 +1,11 @@
 # kiselev_opendata_final_project
 Message analysis of three big russian IT internship related communities
 
+Ссылка на случай, если загрузка файлов из бакета не сработает: https://drive.google.com/drive/folders/1cIXZLhCjPKxslS8NaUK4wyrUGEvaQ474?usp=sharing 
+
+
+## Описание работы
+
 **Этап 1: Создание единого датафрейма** (это часть из домашней работы №2)
 - Были объединены данные из трех телеграм-чатов: "Поступашки", "Яндекс алгоритмы" и "Питон помощь".
 - Выполнена предобработка данных:
